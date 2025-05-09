@@ -1,0 +1,52 @@
+Project:
+ Name: BryAirLabApp_R6
+ GUID: aa112a069d853e4c11c299e26a580081
+ ProjectNamespaceIndex: 9
+ Description: ''
+ Company: ''
+ Copyright: ''
+ FormatVersion: 1
+ ProductVersion: 1.6
+ CoreVersion: 4.2
+ Dependencies:
+  2:
+   Uri: 'urn:FTOptix:CommunicationDriver'
+   Module: FTOptix.CommunicationDriver
+   Version: 3.0
+  3:
+   Uri: 'urn:FTOptix:CoreBase'
+   Module: FTOptix.CoreBase
+   Version: 5.0
+  4:
+   Uri: 'urn:FTOptix:UI'
+   Module: FTOptix.UI
+   Version: 18.1
+  5:
+   Uri: 'urn:FTOptix:Retentivity'
+   Module: FTOptix.Retentivity
+   Version: 1.0
+  6:
+   Uri: 'urn:FTOptix:HMIProject'
+   Module: FTOptix.HMIProject
+   Version: 7.1
+  7:
+   Uri: 'urn:FTOptix:MicroController'
+   Module: FTOptix.MicroController
+   Version: 3.1
+  8:
+   Uri: 'urn:FTOptix:NativeUI'
+   Module: FTOptix.NativeUI
+   Version: 3.1
+ Statistics:
+  TotalNodeCount: 18649
+  Objects: 2927
+  ObjectTypes: 25
+  Variables: 15691
+  VariableTypes: 3
+  DataTypes: 3
+  Methods: 0
+  References: 35
+  ReferenceTypes: 0
+  Files: 30
+ Nodes:
+ - File: Nodes/BryAirLabApp_R6.yaml
